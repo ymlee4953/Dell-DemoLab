@@ -37,7 +37,7 @@
         nvcr.io/nim/meta/llama-3.1-8b-instruct:1.3.3 list-model-profiles
     ```
     Sample Output: <br>
-    ![image](https://github.com/ymlee4953/Dell-DemoLab/blob/main/DemoRoom/NVIDIA%20GenAI%20Workshop/images/lab1-list-model-profiles.png)
+    ![image](images/lab1-list-model-profiles.png)
 
 <br>
 
