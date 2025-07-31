@@ -39,7 +39,7 @@
     USERID=$(id -u) docker compose --env-file .env --profile local-nim --profile milvus up -d
     ```
     Sample Output: <br>
-    ![image](https://git.apps.lab-ocp.cnasg.dellcsc.com/workshop/NIMs/raw/branch/main/images/lab3-rag-running-containers.png)
+    ![image](images/lab3-rag-running-containers.png)
 
 <br>
 
@@ -49,7 +49,7 @@
     docker ps --format "table {{.ID}}\t{{.Names}}\t{{.Status}}"
     ```
     Sample Output: <br>
-    ![image](https://git.apps.lab-ocp.cnasg.dellcsc.com/workshop/NIMs/raw/branch/main/images/lab3-rag-container-status.png)
+    ![image](images/lab3-rag-container-status.png)
 <br>
 
 5. Open a new web browser window, and nagivate to the RAG playground application running on locally by port 8090
@@ -58,19 +58,19 @@
     http://localhost:8090
     ```
     Sample Output: <br>
-    ![image](https://git.apps.lab-ocp.cnasg.dellcsc.com/workshop/NIMs/raw/branch/main/images/lab3-rag-playground.png)
+    ![image](images/lab3-rag-playground.png)
 <br>
 
 6. To add a new knowledge article, click on the "Knowledge Base" on the top right, followed by "Add File" button to upload the file in TXT or PDF
 
     Sample Output: <br>
-    ![image](https://git.apps.lab-ocp.cnasg.dellcsc.com/workshop/NIMs/raw/branch/main/images/lab3-rag-knowledge-base-management.png)
+    ![image](images/lab3-rag-knowledge-base-management.png)
 <br>
 
 7. click on the "Converse" on the top right to go back to the RAG conversation window, and tick the "Use knowledge base" checkbox if you expect the response from RAG with relevant information retrieved from the knowledge base
 
     Sample Output: <br>
-    ![image](https://git.apps.lab-ocp.cnasg.dellcsc.com/workshop/NIMs/raw/branch/main/images/lab3-rag-converse.png)
+    ![image](images/lab3-rag-converse.png)
 <br>
 
 ---
