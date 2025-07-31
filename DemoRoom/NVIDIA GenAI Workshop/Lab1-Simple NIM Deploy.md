@@ -61,7 +61,7 @@
     watch nvidia-smi
     ```
     Sample Output: <br>
-    ![image](https://git.apps.lab-ocp.cnasg.dellcsc.com/workshop/NIMs/raw/branch/main/images/lab1-nvidia-smi.png)
+    ![image](https://github.com/ymlee4953/Dell-DemoLab/blob/main/DemoRoom/NVIDIA%20GenAI%20Workshop/images/lab1-nvidia-smi.png)
 
 <br>
 
