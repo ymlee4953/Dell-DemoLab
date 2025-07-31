@@ -81,12 +81,12 @@
 
 ### WITHOUT LoRA
 
-![image](https://git.apps.lab-ocp.cnasg.dellcsc.com/workshop/NIMs/raw/branch/main/images/lab2-without-lora.png)
+![image](images/lab2-without-lora.png)
 
 <br>
 
 ### WITH LoRA
 
-![image](https://git.apps.lab-ocp.cnasg.dellcsc.com/workshop/NIMs/raw/branch/main/images/lab2-with-lora.png)
+![image](images/lab2-with-lora.png)
 
 
